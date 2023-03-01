@@ -15,6 +15,6 @@
 
 # Используемые библиотеки и навыки:
 
- * Pandas  Matplotlib  seeborn SkiPy NumPy
+ * Pandas  Matplotlib  Seaborn SkiPy NumPy
  * описательная статистика, проверка статистических гипотез
 
