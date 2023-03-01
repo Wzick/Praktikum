@@ -14,6 +14,6 @@
 
 **Выясним, какой шрифт лучше.**
 
-#Используемые библиотеки
+# Используемые библиотеки
 
 *pandas numpy matplotlib scipy datetime seaborn math plotly.express go skimpy*
