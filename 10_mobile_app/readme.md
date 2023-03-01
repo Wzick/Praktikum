@@ -16,4 +16,4 @@
 
 # Используемые библиотеки
 
-*pandas numpy matplotlib scipy datetime seaborn math plotly.express go skimpy*
+*pandas  numpy  matplotlib  scipy  datetime  seaborn  math  plotly.express  go  skimpy*
