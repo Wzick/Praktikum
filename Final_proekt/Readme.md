@@ -13,7 +13,7 @@
 
 # Навыки и инструменты:
 
-pandas, matplotlib, seaborn, scipy, numpy, plotly.express, phik, Power Point, Tableu
+pandas, matplotlib, seaborn, scipy, numpy, plotly.express, phik, Power Point, Tableau
 
 предобработка данных, исследовательский анализ данных, визуализация данных, статистический анализ, проверка статистических гипотез, построение дашборда, изготовление презентации
 
