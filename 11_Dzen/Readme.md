@@ -9,5 +9,5 @@
 
 # Навыки и инструменты:
 
-Yandex.Cloud, Tableu, Power point, Phyton, PostgreSQL, 
+Yandex.Cloud, Tableau, Power point, Python, PostgreSQL, 
 продуктовые метрики, дашборд, пайплайн, удаленный сервер, виртуальная машина, cron
